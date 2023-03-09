@@ -10,6 +10,9 @@ thin stickers measuring 25mm in diameter.
 
 The included models were built with [OpenSCAD](https://openscad.org/).
 
+The SCAD files are all well commented to descript each step. For further help, see the OpenSCAD documentation, or this
+[cheat sheet](https://openscad.org/cheatsheet/) as a reference.
+
 If you add an NFC sticket to the tags, you can use _NFC Tools_ on
 [Android](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&gl=US) or on
 [iOS](https://apps.apple.com/us/app/nfc-tools/id1252962749) to write which URL (or other data) the tag should respond with.
